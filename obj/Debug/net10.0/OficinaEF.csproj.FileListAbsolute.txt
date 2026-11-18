@@ -268,6 +268,7 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd 
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.RazorAssemblyInfo.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.RazorAssemblyInfo.cs
+C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.sourcelink.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -336,6 +337,7 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd 
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\t599pvvon0-{0}-lc35tmtp0i-lc35tmtp0i.gz
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\xbnd8c9ugl-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\ds4mbahr6t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\6sr4gn7gfl-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -410,4 +412,3 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd 
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.pdb
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\OficinaEF.genruntimeconfig.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\ref\OficinaEF.dll
-C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\OficinaEF\obj\Debug\net10.0\compressed\t599pvvon0-{0}-cykpssf5tv-cykpssf5tv.gz
